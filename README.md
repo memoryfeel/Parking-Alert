@@ -1,4 +1,4 @@
-# 주차 예약 자동 알림 (Parking Alert)
+# 주차 예약 자동 알림 (Parking Alert) 
 
 날짜 + 체크주기를 Google Sheets에 등록해두면, GitHub Actions가 주기적으로
 아마노파크 예약 가능여부 API를 호출해서 자리가 나면 ntfy로 폰에 알림을 보내줍니다.
